@@ -1,0 +1,29 @@
+# Docker volumes
+mysql_data/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# IDE & System files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+error_log
+
+# PHP files
+/vendor/
+composer.lock
+
+# Temporary files
+/tmp/
+/temp/
+*.tmp
+*.swp
+*~
