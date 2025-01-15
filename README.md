@@ -48,7 +48,7 @@ api_server/
 1. **Clone repository:**
 
    ```bash
-   git clone <url-repo-anda>
+   git clone https://github.com/NDP4/server-api.git
    cd api_server
    ```
 
